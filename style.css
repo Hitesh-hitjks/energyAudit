@@ -111,6 +111,10 @@ body {
     margin-bottom: 1rem;
 }
 
+#table h3{
+    font-size: 1.4rem;
+}
+
 label {
     font-size: 1.2rem;
 }
